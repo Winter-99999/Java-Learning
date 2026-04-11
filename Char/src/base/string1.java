@@ -1,4 +1,4 @@
-package c0;
+package base;
 
 public class string1 {
     public static void main(String[] args) {
@@ -25,7 +25,7 @@ public class string1 {
         System.out.println(s1.equals(s5));
         //比较内容，不分大小写
         String s6=new String("Abc");
-        System.out.println(s1.equalsIgnoreCase((s5)));
+        System.out.println(s1.equalsIgnoreCase((s4)));
 
     }
 }

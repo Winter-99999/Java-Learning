@@ -1,4 +1,4 @@
-package c0;
+package base;
 
 public class string0 {
     public static void main(String[] args) {

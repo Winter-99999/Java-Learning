@@ -1,4 +1,4 @@
-package c1;
+package Practice;
 import java.util.Scanner;
 public class s6 {
     public static void main(String[] args) {

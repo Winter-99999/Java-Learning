@@ -1,4 +1,4 @@
-package c1;
+package Practice;
 import java.util.Scanner;
 public class s7 {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class s7 {
                 System.out.println("输入错误，请重新输入");
             }
         }
-
+        //直接将数字转为中文，附加单位
         String result="";
         int c=6;
         while(moneystr!=0){
@@ -22,6 +22,7 @@ public class s7 {
             moneystr/=10;
             c--;
         }
+        //补全零
         int count=14- result.length();
         for (int i = 0; i < count; ) {
             result="零"+wei(c)+result;
@@ -29,15 +30,7 @@ public class s7 {
             i+=2;
         }
         System.out.println(result);
-        /*for (int i = 0; i < result.length(); i++) {
-            System.out.print(result.charAt(i)+wei(i));
-        }*/
-        /*String re="";
-        for (int i = 0; i < result.length(); i++){
-            char c=result.charAt(i);
-            re=re+c+wei(i);
-        }
-        System.out.println(re);*/
+
     }
     public static String change(int money){
         String arr[]={"零","壹","贰","叁","肆","伍","陆","柒","捌","玖"};

@@ -1,4 +1,4 @@
-package c0;
+package base;
 import java.util.Scanner;
 public class string3 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package c0;
+package base;
 
 import java.util.Scanner;
 
