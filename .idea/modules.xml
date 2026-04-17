@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/Class1/Class1.iml" filepath="$PROJECT_DIR$/Class1/Class1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Learning.iml" filepath="$PROJECT_DIR$/.idea/Java-Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentSystem/StudentSystem.iml" filepath="$PROJECT_DIR$/StudentSystem/StudentSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentSystem - v2/StudentSystem - v2.iml" filepath="$PROJECT_DIR$/StudentSystem - v2/StudentSystem - v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1/day1.iml" filepath="$PROJECT_DIR$/day1/day1.iml" />
     </modules>
