@@ -1,0 +1,8 @@
+父类        非private     private
+构造方法     不能          不能
+成员变量     能            能(不能直接调用)
+
+父类           虚方法表        非虚方法表
+成员方法     能                不能
+虚方法:  非final，非private，非static
+
