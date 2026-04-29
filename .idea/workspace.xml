@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2209459c-d6cb-4e1c-a379-480122b12f18" name="更改" comment="面向对象进阶" />
+    <list default="true" id="2209459c-d6cb-4e1c-a379-480122b12f18" name="更改" comment="常用API">
+      <change beforePath="$PROJECT_DIR$/.idea/Java-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java-Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PuzzleGame/src/ui/GameJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/PuzzleGame/src/ui/GameJFrame.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,12 +71,32 @@
       <option name="project" value="LOCAL" />
       <updated>1776746681811</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="常用API">
+      <option name="closed" value="true" />
+      <created>1777468687581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777468687581</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成学生管理系统v2" />
     <MESSAGE value="面向对象进阶" />
-    <option name="LAST_COMMIT_MESSAGE" value="面向对象进阶" />
+    <MESSAGE value="常用API" />
+    <option name="LAST_COMMIT_MESSAGE" value="常用API" />
   </component>
 </project>
