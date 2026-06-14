@@ -1,0 +1,8 @@
+ 字节流（万能流）
+传输单位：字节（byte）
+能处理：图片、视频、音频、压缩包、文本…所有文件
+名字一般带：InputStream / OutputStream
+ 字符流（专门给文本用）
+传输单位：字符（char）
+只能处理：纯文字（txt、代码、json 等）
+名字一般带：Reader / Writer

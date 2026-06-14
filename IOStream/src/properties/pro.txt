@@ -1,0 +1,5 @@
+#user info
+#Sun Jun 14 21:49:55 CST 2026
+age=18
+name=zhang
+sex=nan
